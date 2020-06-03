@@ -15,6 +15,7 @@ header {
 header .menu ul{
     margin: 0px;
     padding: 0px;
+
 }
 header .menu li{
     background-color: rgb(209, 110, 99);
@@ -118,4 +119,7 @@ main .artigos .artigo4{
     height: 200px;
 
    
+}
+footer{
+    background-color: white;
 }
